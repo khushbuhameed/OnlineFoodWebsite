@@ -12,7 +12,7 @@ there is nothing usefull for users ok!!
 - [@khushbuhameed](https://github.com/khushbuhameed)
 
 
-## Lessons Learned
+Note :-
 
 i did design only in this project As i said there is nothing usefull for users they can only see dummy ##onlinefooddelivery website
 
